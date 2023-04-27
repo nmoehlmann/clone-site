@@ -1,0 +1,22 @@
+img {
+  height: 20rem;
+}
+
+.bg-color-header {
+  background: linear-gradient(143deg, rgba(215,113,4,1) 0%, rgba(255,159,55,1) 32%, rgba(255,230,150,1) 100%);
+}
+
+.bg-color-main {
+  background: linear-gradient(33deg, rgba(119,135,255,1) 0%, rgba(0,88,255,1) 100%);
+}
+
+.bg-color-footer {
+  background-color: black;
+}
+
+.bg-color-button {
+  background: linear-gradient(25deg, rgba(11,15,42,1) 0%, rgba(0,88,255,1) 100%);
+}
+
+
+
